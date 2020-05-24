@@ -1,0 +1,26 @@
+[
+    {
+        "remote":       "blobs",
+        "repository":   "proprietary_vendor_qcom_common",
+        "target_path":  "vendor/qcom/common",
+        "revision":     "quartz"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA/android_packages_apps_Bluetooth",
+        "target_path":  "packages/apps/Bluetooth",
+        "revision":     "quartz-dev"
+    },
+    {
+        "remote":       "caf",
+        "repository":   "platform/vendor/nxp/opensource/halimpl",
+        "target_path":  "vendor/nxp/opensource/halimpl",
+        "revision":     "nfc.vendor.lnx.1.1.r2-rel"
+    },
+    {
+        "remote":       "caf",
+        "repository":   "platform/vendor/nxp/opensource/hidlimpl",
+        "target_path":  "vendor/nxp/opensource/hidlimpl",
+        "revision":     "nfc.vendor.lnx.1.1.r2-rel"
+    }
+]

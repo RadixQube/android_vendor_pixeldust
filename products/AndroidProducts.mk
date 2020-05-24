@@ -13,6 +13,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES += \
+    $(LOCAL_DIR)/gemini/pixeldust_gemini.mk \
     $(LOCAL_DIR)/angler/pixeldust_angler.mk \
     $(LOCAL_DIR)/blueline/pixeldust_blueline.mk \
     $(LOCAL_DIR)/coral/pixeldust_coral.mk \
@@ -27,6 +28,7 @@ PRODUCT_MAKEFILES += \
 
 # Lunch targets
 COMMON_LUNCH_CHOICES += \
+    pixeldust_gemini-userdebug \
     pixeldust_angler-userdebug \
     pixeldust_angler-user \
     pixeldust_blueline-userdebug \

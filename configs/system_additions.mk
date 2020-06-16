@@ -59,7 +59,8 @@ PRODUCT_PACKAGES += \
     ThemePicker \
     OmniRecord \
     PixelDustThemeStub \
-    DU-Themes
+    DU-Themes \
+    messaging
 
 # Force Launcher3 (this is still needed to exclude the nexuslauncher overlays)
 FORCE_BUILD_LAUNCHER3 := YES

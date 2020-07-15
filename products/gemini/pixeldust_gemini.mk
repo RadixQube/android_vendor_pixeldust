@@ -18,6 +18,9 @@
 # Bootanimation
 BOOTANIMATION := 1080
 
+# Use the sepolicies which are being shipped with our device
+TARGET_EXCLUDE_QCOM_VENDOR_SEPOLICY := true
+
 # Release name
 PRODUCT_RELEASE_NAME := MI 5
 export TARGET_DEVICE := gemini

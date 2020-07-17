@@ -59,6 +59,7 @@ PRODUCT_PACKAGES += \
     DU-Themes \
     messaging \
     GCamGO \
+    GalleryGo \
     StitchImage
 
 # Force Launcher3 (this is still needed to exclude the nexuslauncher overlays)

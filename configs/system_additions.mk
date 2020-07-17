@@ -58,6 +58,7 @@ PRODUCT_PACKAGES += \
     PixelDustThemeStub \
     DU-Themes \
     messaging \
+    GCamGO \
     StitchImage
 
 # Force Launcher3 (this is still needed to exclude the nexuslauncher overlays)

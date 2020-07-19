@@ -60,6 +60,7 @@ PRODUCT_PACKAGES += \
     messaging \
     GCamGO \
     GalleryGo \
+    Via \
     StitchImage
 
 # Force Launcher3 (this is still needed to exclude the nexuslauncher overlays)

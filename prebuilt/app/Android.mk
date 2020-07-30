@@ -39,7 +39,7 @@ LOCAL_OVERRIDES_PACKAGES := SnapdragonCamera Snap Camera2
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := GalleryGo
+LOCAL_MODULE := QPGallery
 LOCAL_OVERRIDES_PACKAGES := Gallery2 Gallery3D GalleryNew3D
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := $(LOCAL_MODULE)/$(LOCAL_MODULE).apk

@@ -63,7 +63,7 @@ PRODUCT_PACKAGES += \
     DU-Themes \
     messaging \
     GCamGO \
-    GalleryGo \
+    QPGallery \
     Via \
     StitchImage
 
